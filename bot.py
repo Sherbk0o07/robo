@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot("7508783656:AAE1pWfvLQNXMn3W8JbIgfYvo5jAHCeV0yQ")
+bot = TeleBot("8126624116:AAGcm8qc6xHHi-_FHII-DcgnqV6_Ux48FAE")
 
 # 🎮 Start menyu
 def menu():
